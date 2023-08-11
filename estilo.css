@@ -1,0 +1,33 @@
+body, html {
+    margin: auto;
+    border: solid 10px violet;
+    background-color: pink;       
+}
+
+#destaque{
+    background-image: url(/paisagem.jpg);
+    background-color: pink;
+    text-align: center;
+    color: blanchedalmond;
+    height: 250px;
+}
+
+.item{
+    width: 20%;
+    border: 10px solid yellow;
+    float: left;
+    text-align: center;
+    padding: 2%;
+}
+
+#produtos{
+    text-align: justify;
+    clear: both;       
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
+
+
